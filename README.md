@@ -4,4 +4,4 @@ Thank you for taking the time to review my professional portfolio! This app cont
 
 <img src="./assets/images/screenshot.jpg" alt="under construction" />
 
-<a href="https://sheogorath9.github.io/Owen-Garrett-Portfolio/">Portfolio</a>
+<a href="https://owengarrett.github.io/Portfolio/">Portfolio</a>
