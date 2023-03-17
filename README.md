@@ -22,11 +22,7 @@ This portfolio was designed using HTML5; CSS; and VS Code.
 
 ## How to use application
 
-You may access my portfolio by clicking the URL in the URL section of this README.md.  
-
-<img src="./assets/images/screenshot.jpg" alt="under construction" />
-
-<a href="https://owengarrett.github.io/Portfolio/">Portfolio</a>
+You may access my portfolio by clicking the URL in the URL section of this README.md document.  
 
 ## URL 
 
@@ -34,11 +30,11 @@ You may access my portfolio by clicking the URL in the URL section of this READM
 
 ## Development 
 
-Orignally, I designed an HTML portfolio in the first week of my coding bootcamp. I had zero prior coding or development expereince prior to the bootcamp. Now that I have passed the course and gained a new passion, I am revisiting this project so that it may more accurately reflect my professional skills.  
+Orignally, I designed an HTML portfolio as part of my first week of my coding bootcamp. I had zero prior coding or development expereince prior to the bootcamp. Now that I have passed the course and gained a new passion, I am revisiting this project so that it may more accurately reflect my professional skills.  
 
 ## Screenshot
 
-<img src="/client/public/placeholderscreenshot.png" alt="App in development" title="App in development">
+<img src="/assets/images/portfolioversion1.jpg" alt="Portfolio 1.0" title="Portfolio in development">
 
 ## Credits
 
