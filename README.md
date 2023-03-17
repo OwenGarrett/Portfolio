@@ -34,7 +34,7 @@ Orignally, I designed an HTML portfolio as part of my first week of my coding bo
 
 ## Screenshot
 
-<img src="/assets/images/portfolioversion1.jpg" alt="Portfolio 1.0" title="Portfolio in development">
+<img src="./assets/css/images/portfolioversion1.jpg" alt="Portfolio version 1.0" title="Portfolio in development">
 
 ## Credits
 
